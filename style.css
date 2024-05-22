@@ -1,0 +1,172 @@
+
+body{
+    background-color: rgba(232, 232, 232, 0.342);
+}
+
+.head-container{
+    background-color: rgba(161, 213, 179, 0.43);
+    padding-bottom: 60px;
+}
+
+#logo{
+    width: 200px;
+    height: 70px;
+}
+
+.nav-link{
+    text-decoration: none;
+    margin-right: 50px;
+    font: 20px;
+    font-weight: bold;
+}
+
+
+.nav-bar{
+    padding: 20px;
+}
+
+.nav-button{
+    background-color: rgb(66, 148, 51);
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: none;
+
+}
+
+#head-pic{
+    padding: 50px;
+    width: 600px;
+    height: 400px;
+    margin-right: 200px;
+}
+
+.head-Content-box{
+    margin-top: 50px;
+}
+
+#head-title-1{
+    color: red;
+    font-weight: bold;
+}
+
+#head-title-2{
+    color: black;
+    font-size: 80px;
+}
+
+#pera-1{
+    color:  rgb(66, 148, 51);
+}
+
+.pera-2{
+    color: gray;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card-container-1{
+    margin-top: 60px;
+}
+
+.cip-1{
+    width: 150px;
+    height: 150px;
+}
+
+.card-1{
+    padding: 50px;
+    border: none;
+    width: 300;
+    height: 300px;
+    background-color: white;
+}
+
+.card-1:hover,.card-2:hover{
+    border: 1px solid lightgray;
+    box-shadow: 10px 3px 10px lightgray;
+}
+
+#oc-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(81, 70, 90);
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.cip-2{
+    padding: 20px;
+}
+
+.card-2{
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+
+.buy-course{
+    margin-top: 25px;
+}
+
+.card-title-2{
+    font-size: 25px;
+    color: rgb(81, 70, 90);
+    font-weight: bold;
+}
+
+.last-div{
+    padding-top: 20px;
+}
+
+.oc-last-div{
+    width: 30px;
+    height: 30px;
+}
+
+.oc-text{
+    font-weight: bold;
+    color: rgb(81, 70, 90);
+    text-decoration: none;
+    margin-left: 3px;
+}
+
+#tt-title{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+}
+
+.tt-container{
+    margin-bottom: 40px;
+    padding: 50px;
+}
+
+#tt-text{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+footer{
+    background-color: rgb(40, 40, 40);
+    margin-bottom: 0;
+    padding: 10px;
+    color: white;
+}
+
+#footer-last-text{
+    text-align: center;
+    color: snow;
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+
+#footer-text-row{
+    padding: 60px;
+}
